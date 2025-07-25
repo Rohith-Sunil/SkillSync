@@ -1,0 +1,23 @@
+# Ignore virtual environments and dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.resume_parser_env/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter/IPython checkpoints
+.ipynb_checkpoints
+
+# Ignore environment variables
+.env
+
+# Ignore outputs
+/output/
+*.png
+*.csv
