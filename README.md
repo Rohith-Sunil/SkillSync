@@ -1,7 +1,7 @@
 
-# SkillSync AI
+# SkillSync 
 
-SkillSync AI is an intelligent Job Description (JD) parser and Resume analyzer built using spaCy and Groq's large language models. It extracts key skills from resumes and job descriptions, compares them, and uses LLMs to recommend personalized resume improvements.
+SkillSync is an intelligent Job Description (JD) parser and Resume analyzer built using spaCy and Groq's large language models. It extracts key skills from resumes and job descriptions, compares them, and uses LLMs to recommend personalized resume improvements.
 
 ## 🔍 Features
 
