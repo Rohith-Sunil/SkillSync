@@ -1,0 +1,116 @@
+Company/Candidate Name,Skill,Sub-skill,Count
+Company_1,Maths,Algorithms,1
+Company_1,Coding,Algorithms,1
+Company_1,ML/AI,Regression,1
+Company_1,ML/AI,Random Forest,1
+Company_1,DevOps,Spark,2
+Company_1,Coding,Python,1
+Company_1,WebD,Python,1
+Company_1,Coding,R,2
+Company_1,DevOps,Tableau,1
+Company_1,Business,Tableau,1
+Company_1,Analytics,Excel,1
+Company_1,Coding,SQL,1
+Company_1,DevOps,NoSQL,1
+Company_1,DevOps,Hadoop,1
+Company_1,Coding,Java,1
+Company_1,DevOps,Hive,1
+Company_1,DevOps,Google Analytics,1
+Company_1,Business,Google Analytics,1
+Company_1,DevOps,Site Catalyst,1
+Company_1,DevOps,Adwords,1
+Company_1,ML/AI,Crimson Hexagon,1
+Company_1,DevOps,Facebook Insights,1
+Company_2,ML/AI,NLP,1
+Company_2,ML/AI,Computer Vision,1
+Company_2,Maths,Statistics,1
+Company_2,ML/AI,Keras,1
+Company_2,Coding,Python,1
+Company_2,WebD,Python,1
+Company_2,WebD,Javascript,1
+Company_2,DevOps,Node.js,1
+Company_2,ML/AI,Flask,1
+Company_2,Coding,C,1
+Company_2,Coding,C++,1
+Company_2,DevOps,Docker,1
+Company_3,Coding,Python,2
+Company_3,WebD,Python,2
+Company_3,ML/AI,Keras,1
+Company_3,ML/AI,Theano,1
+Company_3,ML/AI,TensorFlow,1
+Company_3,ML/AI,NLTK,1
+Company_3,ML/AI,Entity Recognition,1
+Company_3,Coding,PHP,1
+Company_3,WebD,PHP,1
+Company_3,Coding,HTML,1
+Company_3,WebD,HTML,1
+Company_3,Coding,CSS,1
+Company_3,WebD,CSS,1
+Company_3,ML/AI,NLP,1
+Company_4,Maths,Statistics,1
+Company_4,Coding,R,1
+Company_4,Coding,Python,1
+Company_4,WebD,Python,1
+Company_5,Soft_Skills,Ownership,1
+Company_6,Soft_Skills,can-do attitude,1
+Company_6,Business,SDLC,1
+Company_6,Coding,Data Structures,1
+Company_6,Maths,Algorithms,1
+Company_6,Coding,Algorithms,1
+Company_6,Coding,Python,2
+Company_6,WebD,Python,2
+Company_6,Coding,Java,1
+Company_7,ML/AI,Speech Recognition,1
+Company_7,ML/AI,Django,1
+Company_7,WebD,Django,1
+Company_7,Coding,SQL,2
+Company_8,DevOps,Hive,1
+Company_8,Coding,Python,1
+Company_8,WebD,Python,1
+Company_8,DevOps,Spark,1
+Company_8,Coding,R,1
+Company_8,Coding,Scala,1
+Company_8,Business,Marketing,1
+Company_8,Coding,SQL,1
+Company_8,Analytics,Excel,1
+Company_9,Analytics,Excel,1
+Company_9,Coding,SQL,1
+Company_9,Coding,R,1
+Company_9,Coding,Python,1
+Company_9,WebD,Python,1
+Company_9,DevOps,Tableau,1
+Company_9,Business,Tableau,1
+Company_9,WebD,client,2
+Company_10,Business,performance metrics,1
+Company_10,DevOps,Google Analytics,2
+Company_10,Business,Google Analytics,2
+Company_10,DevOps,Tableau,1
+Company_10,Business,Tableau,1
+Company_10,DevOps,PowerBI,1
+Company_10,Business,MS Excel,1
+Company_10,Analytics,Excel,1
+Company_10,Coding,SQL,1
+Company_10,Coding,Python,1
+Company_10,WebD,Python,1
+Company_10,Coding,R,1
+Company_11,DevOps,UI,1
+Company_11,Marketing,Campaign Management,1
+Company_11,Coding,SQL,1
+Company_11,Coding,Data Structures,1
+Company_11,Analytics,Excel,1
+Company_12,WebD,js,1
+Company_12,WebD,api,1
+Company_13,Business,Project Management,1
+Company_13,Coding,CSS,1
+Company_13,WebD,CSS,1
+Company_13,Coding,HTML,1
+Company_13,WebD,HTML,1
+Company_14,Soft_Skills,SEO,8
+Company_14,WebD,client,2
+Company_14,DevOps,Google Analytics,1
+Company_14,Business,Google Analytics,1
+Company_14,Coding,HTML,1
+Company_14,WebD,HTML,1
+Company_14,Coding,CSS,1
+Company_14,WebD,CSS,1
+Company_14,Coding,JavaScript,1
